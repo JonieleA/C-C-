@@ -1,0 +1,5 @@
+C:\Users\Dmitrii\Desktop\Важное\3 сем\Инфа\7 лаба\Forms\Debug\Forms.vcxproj.AssemblyReference.cache
+C:\Users\Dmitrii\Desktop\Важное\3 сем\Инфа\7 лаба\Forms\Debug\Forms.exe
+C:\Users\Dmitrii\Desktop\Важное\3 сем\Инфа\7 лаба\Forms\Debug\Forms.MyForm.resources
+C:\Users\Dmitrii\Desktop\Важное\3 сем\Инфа\7 лаба\Forms\Debug\Forms.vcxproj.GenerateResource.cache
+C:\Users\Dmitrii\Desktop\Важное\3 сем\Инфа\7 лаба\Forms\Debug\Forms.vcxproj.SuggestedBindingRedirects.cache
